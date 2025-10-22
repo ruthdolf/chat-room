@@ -24,7 +24,7 @@ This project is a **Python-based TCP chat room** with a client-server architectu
 
 ```
 ├── client.py    # The chat client with GUI
-├── server.py    # The chat server managing clients and broadcasting messages
+├── server3.py    # The chat server managing clients and broadcasting messages
 └── README.md    # Project documentation
 ```
 
@@ -33,7 +33,7 @@ This project is a **Python-based TCP chat room** with a client-server architectu
 1. **Start the Server:**
 
    ```bash
-   python server.py
+   python server3.py
    ```
 
    The server listens on `127.0.0.1:1027`.
